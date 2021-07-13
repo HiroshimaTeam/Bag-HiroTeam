@@ -1,7 +1,7 @@
 # Bag-HiroTeam
 ---
 ### About
-![TopLuck](image/Bag.png)
+<span position="center">![TopLuck](image/Bag.png)</span>
 
 
 [ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin allows to add a Bag on your server. ! <br/>
